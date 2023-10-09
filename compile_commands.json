@@ -1,0 +1,16 @@
+[
+  {
+    "arguments": [
+      "/usr/bin/g++",
+      "-c",
+      "-std=c++11",
+      "-Wall",
+      "-o",
+      "percolation",
+      "percolation.cpp"
+    ],
+    "directory": "/Users/gassirbek/Documents/study/coursera_algo/percolation",
+    "file": "/Users/gassirbek/Documents/study/coursera_algo/percolation/percolation.cpp",
+    "output": "/Users/gassirbek/Documents/study/coursera_algo/percolation/percolation"
+  }
+]
